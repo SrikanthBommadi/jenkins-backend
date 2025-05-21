@@ -1,0 +1,9 @@
+we create the image here usidng the docker file and we push the image to ecr using the jenkins file 
+
+
+CODE ===>DOCKER FILE ==>JENKINS FILE ==> ECR CONFIGURED ==> IMAGE BUILD==> BACKEND
+
+HERE WE CONFIGURE THE KUBERNETTES IN JENKINS FILE  USING HELMCHARTS
+
+
+K8 create ==> JENKINS FILE ==> JENKINS CONFIGURE USING DEPLOYMENT IN HELM 
